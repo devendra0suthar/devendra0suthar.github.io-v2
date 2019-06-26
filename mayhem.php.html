@@ -14,6 +14,7 @@
 <meta name="description" content="Lucas Mosele is a UX/UI Front-End Developer and Interaction Designer for hire working in Boston, MA.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="stylesheet" type="text/css" href="dist/css/main.css">
+    <link rel="stylesheet" href="./kid.css">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -70,22 +71,48 @@ function t(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)retu
 h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();
 
 pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://lmosele.com/mayhem.php','GmjaonbftA',true,false,'IqS5dZ7LJeE');
-//]]></script><img src="dist/img/mayhem/mayhem-1.png" data-pagespeed-url-hash="901328878" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-<img src="dist/img/mayhem/mayhem-2.png" data-pagespeed-url-hash="1195828799" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+//]]></script>
 <img src="dist/img/mayhem/mayhem-3.png" data-pagespeed-url-hash="1490328720" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-<img src="dist/img/mayhem/mayhem-4.png" data-pagespeed-url-hash="1784828641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 </div>
 <div class="project-text">
-<h1>Model Mayhem UI</h1>
-<ul class="tags">
-<li>Interaction Design</li>
-<li>Branding</li>
-<li>User Interface</li>
-</ul>
-<p>As a daily user of the photography social media site Model Mayhem I find many flaws with their outdated UI and broken navigation. The biggest pain points being the lack of curation and exploration features for their members, as well as a completely unstandardized navigation throughout the site (there are three different navigation bars, depending on what page you are on).</p>
-<p>My main solution for this was to cut away all the unecessary steps. At its core, the free version of MM is simply about signing up, browsing casting calls, connecting with other talent, and messaging to coordinate photoshoots. This meant that a native experience could be stripped down into the very barebones of a social media network. That includes: a profile (with about/gallery/friends list) a discovery/browse section and a notifications feed, which would double as a friend's activity feed.</p>
-<p>While not completely fleshed out, this concept originally won the IdeaHack branding hackathon under the name <a href="https://www.behance.net/gallery/25485763/PORTRA-APP-UI" target="_blank">Portra</a>. </p>
-</div>
+<h1>Calculator</h1>
+    <div id='calc-contain'>
+
+        <form name="calculator">
+
+            <input type="text" name="answer" />
+            <br>
+
+            <input type="button" value=" 1 " onclick="calculator.answer.value += '1'" />
+            <input type="button" value=" 2 " onclick="calculator.answer.value += '2'" />
+            <input type="button" value=" 3 " onclick="calculator.answer.value += '3'" />
+            <input type="button" value=" + " onclick="calculator.answer.value += '+'" />
+            <br/>
+
+            <input type="button" value=" 4 " onclick="calculator.answer.value += '4'" />
+            <input type="button" value=" 5 " onclick="calculator.answer.value += '5'" />
+            <input type="button" value=" 6 " onclick="calculator.answer.value += '6'" />
+            <input type="button" value=" - " onclick="calculator.answer.value += '-'" />
+            </br>
+
+            <input type="button" value=" 7 " onclick="calculator.answer.value += '7'" />
+            <input type="button" value=" 8 " onclick="calculator.answer.value += '8'" />
+            <input type="button" value=" 9 " onclick="calculator.answer.value += '9'" />
+            <input type="button" value=" x " onclick="calculator.answer.value += '*'" />
+            </br>
+
+            <input type="button" value=" c " onclick="calculator.answer.value = ''" />
+            <input type="button" value=" 0 " onclick="calculator.answer.value += '0'" />
+            <input type="button" value=" = " onclick="calculator.answer.value = eval(calculator.answer.value)" />
+            <input type="button" value=" / " onclick="calculator.answer.value += '/'" />
+            </br>
+
+
+        </form>
+        <div id="agh">
+            <p>Adrian Gheorghe Calc
+        </div>
+    </div>
 <footer>
 <div class="container">
 <h4>Like what you see?</h4>

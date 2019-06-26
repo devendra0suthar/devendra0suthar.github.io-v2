@@ -2,45 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28918916-c40c-47ca-b2e6-6d29801881d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allcells.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/allcells.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/allcells/ac-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/allcells/ac-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/allcells/ac-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/allcells/ac-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/allcells/xlogo.png.pagespeed.ic.0KmZQLq6Hi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/cosi/mc-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/cosi/mc-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/cosi/mc-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/cosi/press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/cosi/xlogo.jpg.pagespeed.ic.s2L6L2DEQg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/k1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/k2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/k3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/k5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/k6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mh-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mkt1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mkt3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mkt4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mkt5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mui2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mui3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/maxwell/mui4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/other/propaganda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/salt/3 png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mayhem/mayhem-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mayhem/mayhem-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mayhem/mayhem-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/mayhem/mayhem-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mayhem/mayhem-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mayhem/mayhem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/Capture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/ia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/newhome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/salt1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/saltguide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/salt/saltwires.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxicosi.html" beforeDir="false" afterPath="$PROJECT_DIR$/maxicosi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maxwell-kardia.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/maxwell-kardia.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxwell-ui.php.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/maxwell.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/maxwell.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salt.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/salt.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tok.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mayhem.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/mayhem.php.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,58 +34,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+            <state relative-caret-position="2890">
+              <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/salt.php.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maxwell.php.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+            <state relative-caret-position="629">
+              <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/robots.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="108" column="162" selection-start-line="108" selection-start-column="162" selection-end-line="108" selection-end-column="162" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allcells.php.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src,_js,_wow.min.js+dist,_js,_case.min.js.pagespeed.jc.ECI_NLnp_v.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mayhem.php.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="1241">
+              <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -112,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maxwell-kardia.php.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="1326">
+              <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -129,20 +81,22 @@
         <option value="$PROJECT_DIR$/majestic.php.html" />
         <option value="$PROJECT_DIR$/max-mkt.php.html" />
         <option value="$PROJECT_DIR$/maxwell-ui.php.html" />
-        <option value="$PROJECT_DIR$/mayhem.php.html" />
         <option value="D:/Javascript-Project/fun-with-html5-canvas/index.html" />
-        <option value="$PROJECT_DIR$/maxwell-kardia.php.html" />
-        <option value="$PROJECT_DIR$/maxwell.php.html" />
-        <option value="$PROJECT_DIR$/index.php.html" />
         <option value="$PROJECT_DIR$/maxicosi.html" />
         <option value="$PROJECT_DIR$/salt.php.html" />
         <option value="$PROJECT_DIR$/allcells.php.html" />
+        <option value="$PROJECT_DIR$/index.php.html" />
+        <option value="$PROJECT_DIR$/maxwell-kardia.php.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mayhem.php.html" />
+        <option value="D:/My web page/dev/elen/index.html" />
+        <option value="$PROJECT_DIR$/maxwell.php.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="54" />
+    <option name="y" value="109" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -216,11 +170,19 @@
       <workItem from="1561527860647" duration="1784000" />
       <workItem from="1561529670168" duration="1584000" />
       <workItem from="1561531517183" duration="821000" />
+      <workItem from="1561534410263" duration="1251000" />
+      <workItem from="1561536235789" duration="1794000" />
+      <workItem from="1561538059134" duration="1782000" />
+      <workItem from="1561539876945" duration="2086000" />
+      <workItem from="1561544922797" duration="1792000" />
+      <workItem from="1561546737936" duration="1400000" />
+      <workItem from="1561548547328" duration="1830000" />
+      <workItem from="1561550399068" duration="255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26899000" />
+    <option name="totallyTimeSpent" value="39089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -243,25 +205,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13804004" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -277,13 +220,7 @@
     <entry file="file://$PROJECT_DIR$/maxicosi.php.html" />
     <entry file="file://D:/Flex-Panels-Image-Gallery/html.html" />
     <entry file="file://D:/Javascript-Project/fun-with-html5-canvas/index.html" />
-    <entry file="file://D:/My web page/Neaty Free Website Template - Free-CSS.com/templatemo_501_neaty/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="210" column="34" lean-forward="true" selection-start-line="210" selection-start-column="34" selection-end-line="210" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/My web page/Neaty Free Website Template - Free-CSS.com/templatemo_501_neaty/index.html" />
     <entry file="file://$PROJECT_DIR$/maxwell-ui.php.html" />
     <entry file="file://$PROJECT_DIR$/tip.js" />
     <entry file="file://$PROJECT_DIR$/tok.css" />
@@ -294,9 +231,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jay.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bvc.html" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elen/about.html" />
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src,_js,_wow.min.js+dist,_js,_case.min.js.pagespeed.jc.ECI_NLnp_v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/majestic.php.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="385">
           <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
         </state>
       </provider>
@@ -304,7 +258,7 @@
     <entry file="file://$PROJECT_DIR$/max-mkt.php.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
           <folding>
             <element signature="n#nav#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" />
@@ -319,67 +273,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jay.css">
+    <entry file="file://$PROJECT_DIR$/salt.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/cosi/mc-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25483">
+          <caret line="1344" column="27" lean-forward="true" selection-start-line="1344" selection-start-column="27" selection-end-line="1344" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/mayhem/mayhem.jpg" />
+    <entry file="file://$PROJECT_DIR$/dist/img/mayhem/mayhem-1.png" />
+    <entry file="file://$PROJECT_DIR$/dist/js/case.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery.fullpage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery.fullpage.min.js+main.min.js.pagespeed.jc.2dCt8LMTo5.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bvc.html" />
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery-3-alpha.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src,_js,_wow.min.js+dist,_js,_case.min.js.pagespeed.jc.ECI_NLnp_v.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/dist/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2227" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/allcells.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/My web page/dev/elen/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="225" column="22" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="225" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2890">
+          <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mayhem.php.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maxwell.php.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/salt.php.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+        <state relative-caret-position="1241">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maxwell-kardia.php.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        <state relative-caret-position="1326">
+          <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php.html">
+    <entry file="file://$PROJECT_DIR$/maxwell.php.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="108" column="162" selection-start-line="108" selection-start-column="162" selection-end-line="108" selection-end-column="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elen/about.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allcells.php.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+        <state relative-caret-position="629">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
         </state>
       </provider>
     </entry>
